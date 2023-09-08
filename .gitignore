@@ -1,0 +1,5 @@
+Data/*
+.DS_Store
+.ipynb_checkpoints
+cachedir/*git 
+saved_models/*
